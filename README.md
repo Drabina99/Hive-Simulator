@@ -6,3 +6,10 @@ Głównym celem projektu jest zaprezentowanie komunikacji międzyprocesowej z wy
 wykorzystany język: C++
 
 system operacyjny: Windows
+
+---
+
+"Hive simulator"
+
+Three programs simulate actions happening inside the hive as well as lives of bees, which includes workers and their queen.
+This project's main goal is to give an idea of inter-process communication with the use of shared memory, semaphores and mutexes.
